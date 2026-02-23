@@ -5,5 +5,5 @@ I'm Reyan, a Software Engineer with 5+ years of experience building web apps. I�
 - 🌐 **Portfolio:** [reyzartz.com](https://reyanrahman.com)  
 - 💡 Building tools like [Toolwind](https://github.com/Reyzartz/toolwind), 👻 Ghost-Click
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=reyzartz&label=✌️+YO!+++)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=reyzartz&label=Greetings+fellow+traveller!+++)
 
